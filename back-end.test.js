@@ -4,7 +4,7 @@ const {
   reversify,
   titleify,
   crazify,
-} = require('./back-end.js')
+} = require('./main.js')
 
 
 describe('biggify', () => {
